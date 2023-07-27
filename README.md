@@ -11,6 +11,9 @@
 
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> 
 
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+
+
 --------------
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songmoana3&layout=compact"> <img src="https://github-readme-stats.vercel.app/api?username=songmoana3&show_icons=true">
