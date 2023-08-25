@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<p align="center"><img src="https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-FF0000?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/nginx-FF0000?style=for-the-badge&logo=nginx&logoColor=white"></p>
+<p align="center"><img src="https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-FF0000?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/nginx-FF0000?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/docker-FF0000?style=for-the-badge&logo=docker&logoColor=white"></p>
 
 <p align="center"><img src="https://img.shields.io/badge/mongodb-FF0089?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/mariadb-FF0089?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-FF0089?style=for-the-badge&logo=postgresql&logoColor=white"></p>
 
